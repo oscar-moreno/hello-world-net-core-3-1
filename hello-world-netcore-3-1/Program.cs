@@ -7,6 +7,8 @@ namespace hello_world_netcore_3_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            string username = "admin";
+            string password = "Admin123";
         }
     }
 }
